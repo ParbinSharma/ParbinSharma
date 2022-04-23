@@ -11,6 +11,7 @@ I am a Web developer
 *   ✉️  You can contact me at [sharmaparbin91@gmail.com](mailto:sharmaparbin91@gmail.com)
 
 *   🧠  I'm learning React### Skills<p align="left">
+[![Devil's github stats](https://github-readme-stats.vercel.app/api?username=devil-ff&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
                                 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
 
