@@ -1,10 +1,10 @@
 Hi 👋 My name is Parbin sharma
 
-==============================
+
 
 I am a Web developer
 
---------------------
+
 
 *   🌍  I'm based in Kolkata
 
