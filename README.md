@@ -10,7 +10,7 @@ I am a Web developer
 
 *   ✉️  You can contact me at [sharmaparbin91@gmail.com](mailto:sharmaparbin91@gmail.com)
 
-*   🧠  I'm learning React### Skills<p align="left">
+*   🧠  I'm learning React
 
 
                                 
