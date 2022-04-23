@@ -18,7 +18,7 @@ I am a Web developer
 - 🌱 I’m addicted to learning and growing every day
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
 - 📫 How to find me: 
-  - :bulb: [Facebook](https://www.facebook.com/parbin.sharma.737448)
+  - :facebook: [Facebook](https://www.facebook.com/parbin.sharma.737448)
   - :pencil2: [Instagram](https://www.instagram.com/parbin.ig/)
   - :office: [LinkedIn](https://www.linkedin.com/in/parbin-sharma-975487228)
 
