@@ -22,7 +22,7 @@ I am a Web developer
   - :pencil2: [Instagram](https://www.instagram.com/parbin.ig/)
   - :office: [LinkedIn](https://www.linkedin.com/in/parbin-sharma-975487228)
 
-[![Devil's github stats](https://github-readme-stats.vercel.app/api?username=devil-ff&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Parbin's github stats](https://github-readme-stats.vercel.app/api?username=ParbinDev&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devil-ff)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParbinDev)](https://github.com/anuraghazra/github-readme-stats)
